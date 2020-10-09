@@ -1,1 +1,3 @@
 Hello my name is Eunhwa Lee.
+This is my OSS assignment.
+It's really hard but advantageous.
